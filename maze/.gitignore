@@ -1,4 +1,4 @@
 #Excutables
-*mazeio
-*queue
-*maze
+*mazeio.o
+*queue.o
+*maze.o
