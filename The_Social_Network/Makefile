@@ -11,7 +11,7 @@ user.o: user.h user.cpp
 
 FORCE: ;
 
-.phony: clean hw4
+.phony: clean social_network
 
 clean:
 	-@rm -rf *.o	
